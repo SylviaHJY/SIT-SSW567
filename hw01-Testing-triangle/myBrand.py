@@ -8,4 +8,4 @@ def my_brand(assignment):
   print(f'=*=*=*= {assign} =*=*=*= ') #print multiple variable 
   print('=*=*=*= At:', now, 'the function was called, obtained from a library function call =*=*=*= ');
   
-  my_brand("HW 01: Testing triangle classification");
+my_brand("HW 01: Testing triangle classification");
